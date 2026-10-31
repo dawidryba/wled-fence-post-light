@@ -1,0 +1,7 @@
+.DS_Store
+__pycache__/
+*.FCBak
+enclosure/exports/bambu/
+enclosure/exports/*.FCStd
+enclosure/exports/lampka_slupek_PETG.3mf
+.cache/
