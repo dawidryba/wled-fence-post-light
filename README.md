@@ -48,7 +48,7 @@ The electronics live on PCBs instead of LED strips glued inside a housing, becau
 
 ## Specifications
 
-| | |
+| Spec | Value |
 |---|---|
 | **Fits** | Square 80×80 mm posts, slides on from above |
 | **Size** | 90 × 90 × 83 mm, roof 100 × 100 mm |
